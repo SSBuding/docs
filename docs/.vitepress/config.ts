@@ -3,8 +3,10 @@ import { defineConfig } from "vitepress";
 // https://vitepress.vuejs.org/reference/site-config
 export default defineConfig({
   base: "/docs/",
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  lang: "zh-CN",
+  title: "米饭是菜",
+  description:
+    "bu_ding的前端之路,包含前端常用知识、框架学习笔记、算法知识、日常工具等",
   themeConfig: {
     // https://vitepress.vuejs.org/reference/default-theme-config
     nav: [

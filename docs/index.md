@@ -3,23 +3,22 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "米饭是菜"
+  text: "前端学习笔记"
+  tagline: bu_ding的前端之路,包含前端常用知识、框架学习笔记、算法知识、日常工具等
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始查看-->
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 待定作品链接
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 基础知识
+    details: 整理前端常用知识点（面试八股文）
+  - title: 流行框架
+    details: 框架学习记录
+  - title: 算法小抄
+    details: 一些常用算法知识和实现
 ---
-
